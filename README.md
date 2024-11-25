@@ -22,7 +22,7 @@ By the end of this lab, you will:
 
 - Create an API Key & Secret Key on the Mailjet Developer Portal.
 
-- Refer to the Mailjet documentation for assistance.
+- Refer to the [Mailjet documentation](https://dev.mailjet.com/email/guides/) for assistance.
 
 ### Task 2: Python Environment Setup
 
